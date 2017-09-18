@@ -18,3 +18,37 @@ At this early stage, you may not know enough about the project, especially if th
 Aim towards:
   1.being able to describe in your own words what your project is about, and
   2.preparing a methodical breakdown or sequence of steps that represents your plan for performing your work.
+
+My idea was related to area of beekeeping. Since there is a great shortage of wild honey bees and it is
+commonly known their immense involvement and impact on the environment. As well many countries
+are starting to heavily push the support of local beekeeping. I’ve had experience with the subject as my
+family amateurly beekeeps and has a total of 6 hives. This would be suitable to be done in Ottawa as it is
+predominant here and the surrounding region.
+A large issue concerning properly maintaining bees is the regularity of humidity and
+temperature in the hive. A too humid hive can lead to rot and mildew growth, harming the bees, and
+can spoil the honey. As well a hive needs to be approximately 35 degrees Celsius for proper growth of
+the larvae.
+Without getting too into the details its simply overall important to maintain these two factors in
+a beehive and there is a lot a beekeeper can do help maintain these levels; for example, providing more
+insulation in the winter, modifying the location of the hive (sunny/shade or in a wind prone spot). It
+would be advantageous for a beekeeper to know simply for instance, that one of their hives is running a
+few degrees too cold. A simple discrepancy between humidity/temperature ranges can lead to a loss of
+a hive, especially during critical stages like in the Winter. It would be overall beneficial to the
+environment with the current lack of bees, to be run more optimally and efficient, as well make
+beekeeping easier to attract new members.
+A lot of beekeeping is done as a hobby and by elderly citizens. Therefore, the process is
+somewhat primitive in nature; in terms of the wood used to construct the hive, materials used for
+insulation, location of hives and so forth. A lot of the practices being done are simply by what is common
+and heard from the word of mouth. The Ontario Beekeeping Association (OBA) has data of current
+members and their colonies die-off levels. If a member has minimal hive loss, their process is deemed
+worthy to be copied by others. There is not much of hard data that is being collected to know proper
+statistics in successful methods, which can range widely in different regions.
+I was thinking an Arduino controlling multiple humidity and temperature sensors can be set up
+to record the humidity and temperature inside and outside of a hive. Preferably of multiple hives, and at
+varying beekeeper locations. This data can lead to knowing perhaps which construction/location/etc
+methods are the most successful at maintaining proper humidity/temperature levels in hives. The app
+development part of the project can be used to collect data from the Arduino when visiting the hive,
+perhaps through Bluetooth, avoiding the need to disturb the hive (this is imperative in the winter
+months where opening the hive can allow the entry of cold air and break the bees wax insulation of the
+cracks in the wood). The web development can be used to store this data and of other beekeepers in the
+region. 
